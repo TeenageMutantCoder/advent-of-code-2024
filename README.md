@@ -11,3 +11,5 @@
 [Day 5](day-5/README.md)
 
 [Day 6](day-6/README.md)
+
+[Day 7](day-7/README.md)
